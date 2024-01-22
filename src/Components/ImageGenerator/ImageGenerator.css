@@ -1,0 +1,20 @@
+.ai_image_generator {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    gap: 30px;
+
+
+}
+.img_loading{
+    display: flex;
+    flex-direction: column;
+
+}
+.img_loading img{
+    width: 350px;
+    border-radius: 10px;
+}
